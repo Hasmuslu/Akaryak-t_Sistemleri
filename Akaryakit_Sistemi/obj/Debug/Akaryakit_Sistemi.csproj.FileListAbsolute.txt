@@ -1,0 +1,45 @@
+C:\Users\btogretmen\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.exe.config
+C:\Users\btogretmen\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.exe
+C:\Users\btogretmen\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.pdb
+C:\Users\btogretmen\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.Form1.resources
+C:\Users\btogretmen\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.Properties.Resources.resources
+C:\Users\btogretmen\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csproj.GenerateResource.Cache
+C:\Users\btogretmen\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\btogretmen\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.exe
+C:\Users\btogretmen\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.pdb
+C:\Users\btogretmen\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\sendekodyaz\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.exe.config
+C:\Users\sendekodyaz\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.exe
+C:\Users\sendekodyaz\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.pdb
+C:\Users\sendekodyaz\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\sendekodyaz\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.Form1.resources
+C:\Users\sendekodyaz\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.Properties.Resources.resources
+C:\Users\sendekodyaz\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csproj.GenerateResource.Cache
+C:\Users\sendekodyaz\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\sendekodyaz\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.exe
+C:\Users\sendekodyaz\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.pdb
+C:\Users\sendekodyaz\Desktop\C# FORM DERSLERİ (YENİ)\AKARYAKIT OTOMASYONU\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.exe.config
+C:\Users\sendekodyaz\Desktop\C# FORM DERSLERİ (YENİ)\AKARYAKIT OTOMASYONU\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.exe
+C:\Users\sendekodyaz\Desktop\C# FORM DERSLERİ (YENİ)\AKARYAKIT OTOMASYONU\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.pdb
+C:\Users\sendekodyaz\Desktop\C# FORM DERSLERİ (YENİ)\AKARYAKIT OTOMASYONU\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\sendekodyaz\Desktop\C# FORM DERSLERİ (YENİ)\AKARYAKIT OTOMASYONU\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.Form1.resources
+C:\Users\sendekodyaz\Desktop\C# FORM DERSLERİ (YENİ)\AKARYAKIT OTOMASYONU\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.Properties.Resources.resources
+C:\Users\sendekodyaz\Desktop\C# FORM DERSLERİ (YENİ)\AKARYAKIT OTOMASYONU\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csproj.GenerateResource.Cache
+C:\Users\sendekodyaz\Desktop\C# FORM DERSLERİ (YENİ)\AKARYAKIT OTOMASYONU\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\sendekodyaz\Desktop\C# FORM DERSLERİ (YENİ)\AKARYAKIT OTOMASYONU\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.exe
+C:\Users\sendekodyaz\Desktop\C# FORM DERSLERİ (YENİ)\AKARYAKIT OTOMASYONU\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.pdb
+C:\Users\CASPER\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.exe.config
+C:\Users\CASPER\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.exe
+C:\Users\CASPER\Desktop\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.pdb
+C:\Users\CASPER\Desktop\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.exe.config
+C:\Users\CASPER\Desktop\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.exe
+C:\Users\CASPER\Desktop\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.pdb
+F:\ALİŞİN\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.exe.config
+F:\ALİŞİN\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.exe
+F:\ALİŞİN\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.pdb
+F:\ALİŞİN\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.exe
+F:\ALİŞİN\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\bin\Debug\Akaryakit_Sistemi.pdb
+F:\ALİŞİN\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csprojResolveAssemblyReference.cache
+F:\ALİŞİN\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.Form1.resources
+F:\ALİŞİN\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.Properties.Resources.resources
+F:\ALİŞİN\Aliş Projeleri\Akaryakit_Sistemi\Akaryakit_Sistemi\obj\Debug\Akaryakit_Sistemi.csproj.GenerateResource.Cache
